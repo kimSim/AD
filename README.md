@@ -20,6 +20,8 @@ The goal of this project was to set up an environment using Oracle VM VirtualBox
 
 ![image](https://github.com/kimSim/AD/assets/10665087/a83b1e08-3f7c-4367-a231-8167633f85ab)
 
+![image](https://github.com/kimSim/AD/assets/10665087/048b57de-2137-4171-b637-7f90f31a841e)
+
 <p> <h4>RAS, NAT</h4>
   <li>Installation and configuration of RAS and NAT</li>
   <li><i>This will allow future Windows 10 client(s) to still be able to access the internet through the domain controller even though it is in a private virtual network environment</i></li>
@@ -47,8 +49,9 @@ The goal of this project was to set up an environment using Oracle VM VirtualBox
   <li>Using VirtualBox, created a new Windows 10 client that is connected to the domain.</li>
   <li>Configured the virtual client with neccessary CPU core and RAM usage.</li> 
   <li>Verified client is sucessfully connected to the domain controller which then is able to sucessfully communicate to the external network. </li>
-  <li>Verification was done by the ping and ipconfig commands in cmd. </li>
+  <li>Verification was done by the ping and ipconfig commands in cmd. <i>This also verifies our DNS server is working</i></li>
 </p>
 
-![image](https://github.com/kimSim/AD/assets/10665087/d8854481-b099-4ea9-8015-313b53745cc3)
+![image](https://github.com/kimSim/AD/assets/10665087/d7654808-5dfe-493e-9709-ebfb3082b7fa)
+
 
