@@ -14,6 +14,7 @@ Installation and configuration of RAS and NAT to allow future Windows 10 client 
 
 
 Installed and configured DHCP to allow clients to sucessfully connect to the external network via assigned IP address. Set up IP scope range between 172.16.0.100-200 and verified lease duration. In this case the domain controller was used as the DNS server due to the environment given. 
+
 ![image](https://github.com/kimSim/AD/assets/10665087/ab8aec21-bfe1-4428-9a62-ee668f1fbe56)
 
 
