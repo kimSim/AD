@@ -1,7 +1,7 @@
 # Active Directory Project
 The goal of this project was to set up an environment using Oracle VM VirtualBox with the utilization of Active Directory and other tools to configure a domain controller and clients to sucessfully communicate through the network.
 
-Identification of external internet NIC and internal NIC, manual configuration of internal NIC IP address for the internal network. (The internal NIC was easily identified as it was initially ssigned an APIPA address) 
+<p> Identification of external internet NIC and internal NIC, manual configuration of internal NIC IP address for the internal network. (The internal NIC was easily identified as it was initially ssigned an APIPA address) </p>
 ![image](https://github.com/kimSim/AD/assets/10665087/7068d945-4f68-41fd-9672-4f3e104c9215)
 
 
