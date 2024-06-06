@@ -15,7 +15,7 @@ The goal of this project was to set up an environment using Oracle VM VirtualBox
 <p> <h4>Server Manager, AD, Users and Computers</h4>
   <li>Utilizing Server Manager, installed Active Directory</li>
   <li>Created a domain and a dedicated domain adminstrative account</li>
-  <li>Through "Active Directory Users and Conmputers" this account was added to an organization unit categorized as Admins, then given privelages as a domain adminstrator to allow it to make elevated changes and configurations</li>
+  <li>Through "Active Directory Users and Computers" this account was added to an organization unit categorized as Admins, then given privelages as a domain adminstrator to allow it to make elevated changes and configurations</li>
 </p>
 
 ![image](https://github.com/kimSim/AD/assets/10665087/a83b1e08-3f7c-4367-a231-8167633f85ab)
