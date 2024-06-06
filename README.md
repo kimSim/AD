@@ -43,6 +43,9 @@ The goal of this project was to set up an environment using Oracle VM VirtualBox
   <li>Verified all users have been successfuly created in the domain users directory.</li>
 </p>
 
+![image](https://github.com/kimSim/AD/assets/10665087/f9975983-9b41-4b59-b88f-3f45620a189b)
+
+
 ![image](https://github.com/kimSim/AD/assets/10665087/af5b18cb-9b1c-403d-b792-25bc2e981d8b)
 
 <p> <h4>VM configuration, CMD</h4>
