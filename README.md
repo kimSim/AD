@@ -7,7 +7,7 @@ The goal of this project was to set up an environment using Oracle VM VirtualBox
 <p> <h4>NIC and IP configuration</h4>
   <li>Identification of external internet NIC and internal NIC</li>
   <li>Manual configuration of internal NIC IP address for the internal network</li>
-  <li><i>(The internal NIC was easily identified as it was initially ssigned an APIPA address of 169.254.x.x)</i></li>
+  <li><i>(The internal NIC was easily identified as it was initially assigned an APIPA address of 169.254.x.x)</i></li>
 </p>
 
 ![image](https://github.com/kimSim/AD/assets/10665087/7068d945-4f68-41fd-9672-4f3e104c9215)
